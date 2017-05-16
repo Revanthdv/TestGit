@@ -10,6 +10,7 @@ System.out.println("testing push");
 >>>>>>> TestGit/master
  System.out.println("push was succsefull");
 	    System.out.println("fetch was succsefull");
+	       System.out.println("merge  was succsefull");
 	   
    }
 }
