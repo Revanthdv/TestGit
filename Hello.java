@@ -9,5 +9,7 @@ System.out.println("testing push");
       System.out.println("sucessfully created acc on github");
 >>>>>>> TestGit/master
  System.out.println("push was succsefull");
+	    System.out.println("fetch was succsefull");
+	   
    }
 }
